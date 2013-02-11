@@ -17,4 +17,4 @@ Examples
     $ python invert.py monkey.png -o monkey-inverted.png -r 250 --tile -s 2 -c "#000000"
  
 ![monkey.png](https://raw.github.com/synesthesiam/invert/master/monkey.png)
-![monkey-inverted.png](https://raw.github.com/synesthesiam/magicpy/invert/monkey-inverted.png)
+![monkey-inverted.png](https://raw.github.com/synesthesiam/invert/master/monkey-inverted.png)
